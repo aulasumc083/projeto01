@@ -10,3 +10,4 @@ root.left.left = Node("D")  # Nível 2
 root.left.right = Node("E")  # Nível 2
 root.right.left = Node("F")  # Nível 2
 print(root) # Imprime a árvore
+#teste GitHub
